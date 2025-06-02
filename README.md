@@ -1,2 +1,3 @@
-Teste
-etseT
+Abc
+Acb
+Bca
