@@ -1,3 +1,1 @@
-Abc
-Acb
-Bca
+123
